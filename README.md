@@ -1,6 +1,7 @@
 # 📊 Marketing Performance & Customer Engagement Analysis – ShopEasy
 
 ## 1. Project Overview
+Link dashboard: https://app.powerbi.com/reportEmbed?reportId=9e7f1f2f-91e2-475c-9c0c-ca0d93435892&autoAuth=true&ctid=2a141a9b-4ef4-4094-a1e5-59bf690777c6
 This project analyzes marketing performance and customer engagement for **ShopEasy**, an online retail business.
 The dashboard focuses on conversion behavior, content engagement, and customer feedback to help stakeholders evaluate marketing effectiveness and identify optimization opportunities.
 
